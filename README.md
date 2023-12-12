@@ -1,2 +1,5 @@
 # JSD-Mini-Project
-Codecademy HTML CSS projects
+Codecademy HTML/CSS project
+<br>
+DasMotas Arts & Crafts.
+
