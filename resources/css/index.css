@@ -1,0 +1,87 @@
+h1{
+font-family: Helvetica;
+font-size: 100px;
+font-weight: bold;
+color: khaki;
+text-align: center;
+background-image: url(https://content.codecademy.com/courses/freelance-1/unit-2/pattern.jpeg); 
+}
+
+section2,h2{
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+#bg-clrb{
+    background-color:mediumspringgreen;
+}
+section2,h3{
+    text-align: left;
+    font-weight: bold;
+    color: black;
+    font-family:'Helvetica';
+}
+section2,p{
+    color: black;
+    text-align: left;
+}
+section2,span{
+font-family: Helvetica;
+font-weight: bold;
+color: blue;
+}
+
+
+section3,h2{
+font-family: Helvetica;
+font-size: 32px;
+font-weight: bold;
+color: white;
+}
+#bg-clrf{
+    background-color: lightcoral;
+}
+section3,h3{
+    text-align: left;
+    font-weight: bold;
+    color: black;
+    font-family:'Helvetica'
+}
+section3,p{
+    color: black;
+    text-align: left;
+}
+section3,span{
+    font-family: Helvetica;
+    font-weight: bold;
+    color: blue; 
+}
+  
+
+
+section4,h2{
+font-family: Helvetica;
+font-size: 32px;
+font-weight: bold;
+color: white;
+}
+#bg-clrp{
+    background-color: skyblue;
+}
+img{
+    align-items: left;
+}
+section4,h3{
+color:black;
+font-weight: bold;
+}
+section4,p{
+    color: black;
+    text-align: left;
+}
+section4,span{
+font-family: Helvetica;
+font-weight: bold;
+color: blue;
+}
