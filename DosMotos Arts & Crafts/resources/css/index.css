@@ -1,11 +1,16 @@
+/*Dosmotos Arts and Science*/
+
 h1{
 font-family: Helvetica;
 font-size: 100px;
 font-weight: bold;
 color: khaki;
 text-align: center;
+/* Background image for the h1 tag */
 background-image: url(https://content.codecademy.com/courses/freelance-1/unit-2/pattern.jpeg); 
 }
+
+/* Section2 for Brushes div */
 
 section2,h2{
     font-family: Helvetica;
@@ -33,6 +38,8 @@ color: blue;
 }
 
 
+/* Section 3 for Frames  */
+
 section3,h2{
 font-family: Helvetica;
 font-size: 32px;
@@ -58,6 +65,8 @@ section3,span{
     color: blue; 
 }
   
+
+/* Section4 for Finnish  */
 
 
 section4,h2{
